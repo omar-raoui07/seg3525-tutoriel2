@@ -137,9 +137,9 @@ Le prototype final combine les objectifs des deux personas dans une interface co
 
 | Ressource | Lien |
 |---|---|
-| Portfolio Devoir 1 | [Lien Netlify du portfolio — à compléter avant la remise] |
-| Prototype Devoir 2 | [Lien Netlify du prototype Orion Physio Studio — à compléter après déploiement] |
-| Code source GitHub | [Lien GitHub du dépôt — à compléter] |
+| Portfolio Devoir 1 | |
+| Prototype Devoir 2 | https://orianphysio-studio.netlify.app/|
+| Code source GitHub |https://github.com/omar-raoui07/seg3525-tutoriel2/  |
 
 ---
 
