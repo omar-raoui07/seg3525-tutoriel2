@@ -10,7 +10,7 @@
 | Champ | Valeur |
 |---|---|
 | **Nom** | Omar Raoui |
-| **Numéro étudiant** | [300409570| 
+| **Numéro étudiant** | 300409570| 
 **Courriel universitaire** | oraou075@uottawa.ca |
 | **Cours** | SEG3525, Université d'Ottawa |
 
